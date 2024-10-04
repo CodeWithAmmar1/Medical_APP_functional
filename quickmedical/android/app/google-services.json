@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092143676638",
+    "project_id": "medical-app-c1b57",
+    "storage_bucket": "medical-app-c1b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092143676638:android:d469853b40c0a82b71d64f",
+        "android_client_info": {
+          "package_name": "com.example.quickmedica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMZpeZJt24g4fxrjWg-hTDMZsF0TrT-yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
